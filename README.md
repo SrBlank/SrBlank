@@ -1,4 +1,4 @@
-### Saad Rafiq - Aspiring Software Engineer
+# Saad Rafiq - Aspiring Software Engineer
 
 ### About Me
 Hello and welcome to my GitHub page! My name is Saad Rafiq, I am in my third year at Texas State University, double majoring in Computer Science and Applied Mathematics. 
