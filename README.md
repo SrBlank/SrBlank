@@ -1,9 +1,17 @@
 # Saad Rafiq - Aspiring Software Engineer
 
 ### About Me
-Hello and welcome to my GitHub page! My name is Saad Rafiq, I am in my third year at Texas State University, double majoring in Computer Science and Applied Mathematics. 
+🎓 Set to graduate in December 2024 from Texas State University, currently I’m a Senior double majoring in Computer Science and Applied Mathematics.
 
-I currently do research at the High-Performance Engineering Lab, researching autonomous data collection on burning buildings using drones for firefighters. My current passion project is [RPI-Alarm](https://github.com/SrBlank/RPI-Alarm), which is an alarm clock web-app meant to be ran on a system which is connected to speakers to ensure you wake up! 
+🌟 Actively seeking Software Internships for Summer 2024 to leverage my experience and contribute innovative solutions.
+
+💻 I am proficient in C/C++, Java, and Python, with a strong background in both theoretical understanding and practical application
+
+🔬 Engaged in cutting-edge research focused on enhancing autonomous firefighting capabilities. I’m pioneering methods using drones for data collection on burning buildings to inform safer and more effective firefighting strategies.
+
+🤝 Open to connecting and exploring opportunities where I can contribute and grow as a part of a dynamic team, working at the intersection of technology and real-world problem-solving.
+
+I currently do research at the High-Performance Engineering Lab, researching autonomous data collection on burning buildings using drones for firefighters. My current passion project is [RPI-Alarm](https://github.com/SrBlank/RPI-Alarm), which is an alarm clock web app meant to be ran on a system that is connected to speakers to ensure you wake up! 
 
 Check out my portfolio at [rafiqsaad.com](https://rafiqsaad.com) to see my experiences and contact info. Please reach out to me regarding the code I have worked on, research/mentorship questions, resume, experiences, or whatever else!
 
