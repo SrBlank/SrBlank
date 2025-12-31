@@ -1,38 +1,55 @@
-# Saad Rafiq - Aspiring Software Engineer
+# Saad Rafiq 
+*Software Engineer - Robotics & Autonomous Systems - Applied Mathematics*
 
 ### About Me
-🎓 Set to graduate in December 2024 from Texas State University, currently I’m a Senior double majoring in Computer Science and Applied Mathematics.
+I'm a Software Engineer I at Dell Technologies with a strong background in computer science, applied mathematics, and robotics. I graduated from Texas State University (Dec 2024) with a B.S. in Computer Science and a B.S. in Applied Mathematics.
 
-🌟 Actively seeking Software Internships for Summer 2024 to leverage my experience and contribute innovative solutions.
+My interests are in software engineering and autonomy, particularly robotics, drones, and intelligent infrastructure. I enjoy working closely with hardware and embedded systems, and I’m equally comfortable building full-stack applications, tooling, and large-scale automation.
 
-💻 I am proficient in C/C++, Java, and Python, with a strong background in both theoretical understanding and practical application
+I'm especially passionate about: 
+- Autonomous drones and robots
+- Applied ML & computer vision
+- Embedded systems
+- Turning research prototypes into production ready software
 
-🔬 Engaged in cutting-edge research focused on enhancing autonomous firefighting capabilities. I’m pioneering methods using drones for data collection on burning buildings to inform safer and more effective firefighting strategies.
-
-🤝 Open to connecting and exploring opportunities where I can contribute and grow as a part of a dynamic team, working at the intersection of technology and real-world problem-solving.
-
-I currently do research at the High-Performance Engineering Lab, researching autonomous data collection on burning buildings using drones for firefighters. My current passion project is [RPI-Alarm](https://github.com/SrBlank/RPI-Alarm), which is an alarm clock web app meant to be ran on a system that is connected to speakers to ensure you wake up! 
-
-Check out my portfolio at [rafiqsaad.com](https://rafiqsaad.com) to see my experiences and contact info. Please reach out to me regarding the code I have worked on, research/mentorship questions, resume, experiences, or whatever else!
+---
 
 ### Experience
-Jun 2022 - Present  |  High Performance Engineering Lab
 
-Aug 2021 - Present  |  Machine Learning Researcher
+**Software Engineer I** - *Dell Technologies*  
+*February 2025 - Present*
 
-Aug 2021 - Present  |  Tutor at the Collaborative Learning Center
+**CTO & Co-Founder** - *Firefly Robotics*
+*September 2024 - Present*
 
-<!--
-**SrBlank/SrBlank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer Intern** - *Dell Technologies* 
+*May 2024 - August 2024*
 
-Here are some ideas to get you started:
+**Drone Engineer** - *High Performance Engineering Lab (HiPE)*
+January 2024 - Dec 2024
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**NSF REU Robotics Researcher** - *High Performance Engineering Lab (HiPE)*
+*June 2022 - January 2023*
+
+---
+
+### Tech Stack
+
+**Languages:** C++, Python, Java, Bash, MATLAB, MIPS  
+**Robotics & ML:** ROS, MAVLink, DroneKit, OpenCV, PyMavLink, NumPy, Pandas, SciPy, TensorFlow, PyTorch  
+**Systems & Cloud:** Linux, Git, Docker, AWS, Azure, boto3, Jenkins  
+**Web & Tooling:** Flask, React, Node.js, Express, PostgreSQL, HTML/CSS
+
+---
+
+### Publications
+
+- A. Rafiq, et al., *“Design of Autonomous Rover for Firefighter Rescue: Integrating Deep Learning with ROS2”*, 2024 IEEE World AI IoT Congress (AIIoT), Seattle, WA, USA, 2024, pp. 421-428, doi: 10.1109/AIIoT61789.2024.10578950.  
+- A. Rafiq, et al., *“Saving lives while reducing first responder risks - with AI”*, [White Paper] Dell Technologies, 2023. https://workstationguides.com/briefs/texasstateuniversity/
+
+--- 
+
+### Let’s Connect
+
+**Portfolio:** https://rafiqsaad.com  
+**Email:** saadarafiq@gmail.com  
