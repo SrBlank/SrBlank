@@ -52,4 +52,5 @@ January 2024 - Dec 2024
 ### Let’s Connect
 
 **Portfolio:** https://srblank.github.io/rafiqsaad/
+
 **Email:** saadarafiq@gmail.com  
